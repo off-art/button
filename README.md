@@ -1,2 +1,2 @@
-# web-page
+# My GitHub link
 ## Press the button
