@@ -8,8 +8,7 @@ body {
 }
 
 .container {
-  height: 300px;
-  padding: 50px;
+  height: 80vh;
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
   position: relative;
